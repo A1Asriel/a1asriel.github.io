@@ -72,7 +72,7 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 - **Mouse:** A4Tech Bloody A9
 - **Keyboard:** A4Tech Bloody B810R
-- **Display:** ASUS VS229NA \| 1920x1080
+- **Display:** ASUS VS229NA \| 1920x1080, 60 Hz, 21.5 inch
 - **Headphones:** SteelSeries Arctis 1 Wireless
 
 ### MUS-PC[^mus-pc] specs
@@ -91,8 +91,13 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 ### MUD-MP[^mud-mp] specs
 
 - **Model:** Xiaomi Poco X3 Pro (vayu)
-- **Custom ROM:** crDroid 8.8 (Android 12) + NikGApps Core
+- **SoC:** Qualcomm SM8150 (Snapdragon 855)
+- **GPU:** Qualcomm Adreno 640
+- **RAM:** 8 GB
+- **Internal storage:** 256 GB
+- **Display:** IPS, 1080x2400 (386 DPI), 120 Hz, 6.67 inch
 - **Case:** stock one
+- **Custom ROM:** crDroid 8.8 (Android 12) + NikGApps Core
 
 ## Contacts
 
@@ -105,6 +110,6 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ## Footnotes
 
-[^sus-pc]: Stationary Universal Station - Personal Computer
+[^sus-pc]: Static Universal Station - Personal Computer
 [^mus-pc]: Mobile Universal Station - Personal Computer
 [^mud-mp]: Mobile Universal Device - Mobile Phone
