@@ -23,10 +23,10 @@ timezone: Europe/Moscow
 
 title: A1Asriel                          # the main title
 
-tagline: A fluffy tech nerd   # it will display as the sub-title
+tagline: Just a fluffy amateur programmer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A1Asriel's personal blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://a1asriel.github.io'
@@ -34,11 +34,17 @@ url: 'https://a1asriel.github.io'
 github:
   username: A1Asriel             # change to your github username
 
-twitter:
-  username: A1Asriel            # change to your twitter username
-
 discord:
   invite: wVFPftk4vf
+
+youtube:
+  url: https://www.youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
+
+steam:
+  username: A1Asriel
+
+twitter:
+  username: A1Asriel            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -48,6 +54,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/A1Asriel       # change to your github homepage
+    - https://discord.gg/wVFPftk4vf
     - https://twitter.com/A1Asriel      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -89,7 +96,7 @@ img_cdn:
 avatar: https://cdn.discordapp.com/attachments/713481949896900622/1011331529718370414/a1asriel_avatar.png
 
 # boolean type, the global switch for ToC in posts.
-toc: false
+toc: true
 
 comments:
   active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable

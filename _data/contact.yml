@@ -1,11 +1,17 @@
 #  The contact options.
 
 -
+  type: discord
+  icon: 'fab fa-discord'
+-
   type: github
   icon: 'fab fa-github'
 -
-  type: discord
-  icon: 'fab fa-discord'
+  type: youtube
+  icon: 'fab fa-youtube'
+-
+  type: steam
+  icon: 'fab fa-steam'
 -
   type: twitter
   icon: 'fab fa-twitter'

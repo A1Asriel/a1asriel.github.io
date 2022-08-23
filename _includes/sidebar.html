@@ -71,6 +71,10 @@
             https://twitter.com/{{ site.twitter.username }}
           {%- elsif entry.type == 'discord' -%}
             https://discord.gg/{{ site.discord.invite }}
+            {%- elsif entry.type == 'steam' -%}
+            https://steamcommunity.com/id/{{ site.steam.username }}
+            {%- elsif entry.type == 'youtube' -%}
+              {{ site.youtube.url }}
           {%- elsif entry.type == 'email' -%}
             {% assign email = site.social.email | split: '@' %}
             javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
