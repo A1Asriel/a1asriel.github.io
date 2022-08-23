@@ -100,7 +100,7 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
   - ["Alternation One R&D Facility" server](https://discord.gg/{{ site.discord.invite }})
 - [**GitHub**](https://github.com/{{ site.github.username }})
 - [**YouTube**]({{ site.youtube.url }})
-- [**Steam**](https://steamcommunity.com/{{ site.steam.username }})
+- [**Steam**](https://steamcommunity.com/id/{{ site.steam.username }})
 - [**Twitter**](https://twitter.com/{{ site.twitter.username }})
 
 ## Footnotes
