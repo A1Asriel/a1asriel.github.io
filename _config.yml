@@ -37,8 +37,12 @@ github:
 discord:
   invite: wVFPftk4vf
 
+# pleroma:
+#   domain:
+#   username:
+
 youtube:
-  url: https://www.youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
+  url: https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
 
 steam:
   username: A1Asriel
@@ -54,7 +58,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/A1Asriel       # change to your github homepage
-    - https://discord.gg/wVFPftk4vf
+    # - https://discord.gg/wVFPftk4vf
+    - https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
     - https://twitter.com/A1Asriel      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

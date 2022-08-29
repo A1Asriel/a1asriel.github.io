@@ -4,22 +4,33 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> This page is WIP and may contain partially improper information.
+> This site is highly WIP and may contain partially improper information and inconsistent design.  
+Thanks for understanding.
 {: .prompt-warning }
 
-## About website
+## About the website
 
 *I don't know how did you get here, but since you did, you're probably interested in getting to know me better.*  
-Basically, this is why I created this site, or more precisely, a blog. You can get all the essential information about me on this page, or check the links in case you want to contact me. The following posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
+Basically, this is why I created this website, to help you learn something interesting (or not) about me. You can get all the essential information about me on this page, or check the links at the bottom in case if you just want to contact me. While this page provides you some general facts from my life, the blog posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
+
+---
 
 ## Bio
 
-My name is Asriel or, as my friends call me more often, Azzy. I'm a second-year university student, studying software engineering.  
-My hobbies are - obviously - coding, roleplaying and a lil' bit of gaming. I stan for open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, like skeuomorphic design languages *(Windows Aero, my <3)* and enjoy retrocomputing in general.
+My name is Asriel or, as my friends call me more often, Azzy; I'm fine with either. I'm a second-year university student who is studying software engineering.  
+My hobbies are programming (obviously), roleplaying, and a lil' bit of gaming. I used to play a lot, but now I can't say I'm a real gamer, rather I just admire video games as a culture.  
+I stan for free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, like skeuomorphic design languages *(Windows Aero, my <3)* and enjoy retrocomputing in general. You got it right, I hate and love Windows at the same time. Don't ask me about it, I can't understand this either.  
+I can code in Python almost fluently, have little experience with C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
+Occasionally I draw things that pop up in my head, but this piece will tell you their average quality:  
+![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1013586971249082418/asrielus.png){: width="200" style="max-width: 100%" }
+*yes, this was drawn in MS Paint*
+
+I really wish I could draw better. But I'm too lazy to learn how to.
 
 My favourite video games are:
 
-- Undertale & Deltarune,
+- Deltarune (especially Chapter 2),
+- Undertale,
 - Minecraft (best below 1.9, acceptable prior to 1.19.1),
 - C&C: Renegade,
 - Half-Life/Portal series.
@@ -35,81 +46,136 @@ My favourite video games are:
 : ```py
 AttributeError: 'A1Asriel' object has no attribute 'gender'
     ```
+- **Pronouns:** any
 - **Timezone:** UTC+3 (Europe/Moscow)  
   <span id="time-in-utc3"></span>
 
 <script>
-    document.getElementById('time-in-utc3').innerHTML = 'Current time: ' + new Date().toLocaleTimeString([], { timeZone: 'Europe/Moscow' });
-    setInterval(() => { document.getElementById('time-in-utc3').innerHTML = 'Current time: ' + new Date().toLocaleTimeString([], { timeZone: 'Europe/Moscow' }); }, 1000);
+    document.getElementById('time-in-utc3').innerHTML = '<b>Current time:</b> ' + new Date().toLocaleTimeString([], { timeZone: 'Europe/Moscow' });
+    setInterval(() => { document.getElementById('time-in-utc3').innerHTML = '<b>Current time:</b> ' + new Date().toLocaleTimeString([], { timeZone: 'Europe/Moscow' }); }, 1000);
 </script>
 
 ## Projects
 
-| Name                               | Status                                                |
-|------------------------------------|-------------------------------------------------------|
-| [**OpenWorld**][ow-source]         | Discontinued                                          |
-| [**AsrielBot Legacy**][abl-site]   | In active development (source code is not yet opened) |
-| [**Anastellos Engine**][ae-source] | In active development                                 |
-| **AsrielBot**                      | Planned                                               |
+| Name                                             | Status                        |
+|--------------------------------------------------|-------------------------------|
+| [**GTA-3000**][gta3k-source]                     | Discontinued                  |
+| [**OpenWorld**][ow-source]                       | Discontinued[^rebrand-to-abl] |
+| [**AsrielBot Legacy**][abl-site][^closed-source] | In active development         |
+| [**Anastellos Engine**][ae-source]               | In active development         |
+| **AsrielBot**                                    | Planned                       |
 
+[gta3k-source]: https://github.com/A1Asriel/GTA-3000
 [ow-source]: https://github.com/A1Asriel/OpenWorld
 [abl-site]: https://a1asriel.github.io/AsrielBot-site
 [ae-source]: https://github.com/A1Asriel/anastellos
 
-## Devices specs
+## Current devices specs
 
-### SUS-PC[^sus-pc] specs
+### SUS-PC[^sus-pc] - main workstation and server
+
+> In use since December 2018
 
 - **CPU:** AMD Ryzen 5 2600
-- **RAM:** Kingston Fury Beast Black 3200 MHz 16 GB \| x2
-- **GPU:** MSI GeForce GTX 1050 Ti OC 4 GB
+- **RAM:** Kingston Fury Beast Black - 3200 MHz, 16 GB - x2
+- **GPU:** MSI GeForce GTX 1050 Ti OC - 4 GB VRAM
 - **Motherboard:** ASRock AB350 Pro4
-- **Storage (hard drive):** WD Blue 5400 RPM 1 TB
+- **Storage (hard drive):** WD Blue - 5400 RPM, 1 TB
 - **Power supply:** be quiet SYSTEM POWER 9 700W
 - **CPU cooler:** DEEPCOOL GAMMAXX 300
 - **Case:** Zalman Z1 NEO Black
-- **OS:** 64-bit Windows 10 Pro 21H1
+- **OS:** Microsoft Windows 10 Pro 21H1 [Build 19043]
 
 - **Mouse:** A4Tech Bloody A9
-- **Keyboard:** A4Tech Bloody B810R
-- **Display:** ASUS VS229NA \| 1920x1080, 60 Hz, 21.5 inch
-- **Headphones:** SteelSeries Arctis 1 Wireless
+- **Keyboard:** A4Tech Bloody B810R NetBee
+- **Display:** ASUS VS229NA - VA, 21.5 inch, 1920x1080, 60 Hz
+- **Headphones:** SteelSeries Arctis 1 Wireless (shared with MUS-PC)
 
-### MUS-PC[^mus-pc] specs
+### MUS-PC[^mus-pc] - portable and powerful workstation
+
+> In use since April 2022
 
 - **Model:** HP Victus 16-e0010ur
 - **CPU:** AMD Ryzen 5 5600H
-- **RAM:** 3200 MHz 16 GB
-- **GPU:** NVIDIA GeForce RTX 3050 Ti Mobile 4 GB
+- **RAM:** 3200 MHz, 16 GB
+- **GPU:** NVIDIA GeForce RTX 3050 Ti Mobile - 4 GB VRAM
 - **Storage (SSD):** 512 GB
-- **Display:** IPS, 1920x1080, 144 Hz, terrible colour rendering
-- **OS:** Windows 11 Pro 21H2
+- **Display:** IPS, 16.1 inch, 1920x1080, 144 Hz, terrible colour rendering
+- **OS:** Microsoft Windows 11 Pro 21H2 [Build 22000]
 
 - **Mouse (wireless):** Defender Optimum 115 Nano
-- **Headphones:** \*same as on SUS-PC\*
+- **Headphones:** SteelSeries Arctis 1 Wireless (shared with SUS-PC)
 
-### MUD-MP[^mud-mp] specs
+### MUD-MP[^mud-mp] - pocket communicator
+
+> In use since April 2022
 
 - **Model:** Xiaomi Poco X3 Pro (vayu)
 - **SoC:** Qualcomm SM8150 (Snapdragon 855)
 - **GPU:** Qualcomm Adreno 640
 - **RAM:** 8 GB
 - **Internal storage:** 256 GB
-- **Display:** IPS, 1080x2400 (386 DPI), 120 Hz, 6.67 inch
-- **Case:** stock one
-- **Custom ROM:** crDroid 8.8 (Android 12) + NikGApps Core
+- **Display:** IPS, 6.67 inch, 1080x2400 (386 DPI), 120 Hz
+- **Custom ROM:** crDroid 8 (Android 12) + NikGApps Core
 
-## Contacts
+## Retired devices specs
 
-- **Discord:** A1Asriel#8203
-  - ["Alternation One R&D Facility" server](https://discord.gg/{{ site.discord.invite }})
-- [**GitHub**](https://github.com/{{ site.github.username }})
-- [**YouTube**]({{ site.youtube.url }})
-- [**Steam**](https://steamcommunity.com/id/{{ site.steam.username }})
-- [**Twitter**](https://twitter.com/{{ site.twitter.username }})
+### MWS-PC[^mws-pc] - portable device for lightweight tasks
+
+> Was actively used by me from September 2021 to April 2022, now is still used by my family since 2010 or 2011
+
+- **Model:** Lenovo B560
+- **CPU:** Intel Core i3 370M
+- **RAM:** 4 GB
+- **GPU:** Intel HD Graphics
+- **Storage (SSD):** WD Blue - 256 GB
+- **Display:** TFT, 15.6 inch, 1366x768, 60 Hz
+- **OS:** Microsoft Windows 10 Pro
+
+### Sony Xperia C4 - reliable and convenient pocket assistant
+
+> Was used from January 2016 to April 2022
+
+- **Model:** Sony Xperia E5303
+- **SoC:** MediaTek MT6752
+- **GPU:** Mali T760 MP2
+- **RAM:** 2 GB
+- **Internal storage:** 16 GB
+- **Display:** IPS, 5.5 inch, 1080x1920, 60 Hz
+- **ROM:** original (updated from Android 5.0 to 6.0)
+
+### Sony Xperia Miro - the key to the smart mobile world
+
+> Was used from January 2013 or 2014 to January 2016
+
+- **Model:** Sony Xperia ST23i (mesona)
+- **SoC:** Qualcomm Snapdragon S1 MSM7225A
+- **GPU:** Qualcomm Adreno 200
+- **RAM:** 512 MB
+- **Internal storage:** 4 GB
+- **Display:** TFT, 3.5 inch, 320x480, 60 Hz
+- **ROM:** original (Android 4.0.4)
+
+## Links
+
+- [**Personal Discord server**][discord-invite]  
+  **Discord username:** A1Asriel#8203
+- [**GitHub profile**][github-profile]
+- [**YouTube channel**][youtube-link]
+- [**Steam profile**][steam-link]
+- [**Twitter profile**][twitter-link]
+
+[discord-invite]: https://discord.gg/{{ site.discord.invite }}
+[github-profile]: https://github.com/{{ site.github.username }}
+[youtube-link]: {{ site.youtube.url }}
+[steam-link]: https://steamcommunity.com/id/{{ site.steam.username }}
+[twitter-link]: https://twitter.com/{{ site.twitter.username }}
 
 ## Footnotes
 
+[^rebrand-to-abl]: AsrielBot Legacy is a successor to this bot.
+[^closed-source]: The source code is not yet opened.
 [^sus-pc]: Static Universal Station - Personal Computer
 [^mus-pc]: Mobile Universal Station - Personal Computer
 [^mud-mp]: Mobile Universal Device - Mobile Phone
+[^mws-pc]: Mobile Working Station - Personal Computer

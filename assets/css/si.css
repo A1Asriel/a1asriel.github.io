@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'social-icons';
+  src: url('../font/si.eot?75400970');
+  src: url('../font/si.eot?75400970#iefix') format('embedded-opentype'),
+       url('../font/si.woff2?75400970') format('woff2'),
+       url('../font/si.woff?75400970') format('woff'),
+       url('../font/si.ttf?75400970') format('truetype'),
+       url('../font/si.svg?75400970#si') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.si {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-family: "social-icons";
+  font-weight: 400;
+}
+
+.social-fediverse:before { content: '\e800'; } /* '' */
+.social-pleroma:before { content: '\e801'; } /* '' */
+.social-discord_new:before { content: '\e802'; font-size: 0.93rem; } /* '' */
