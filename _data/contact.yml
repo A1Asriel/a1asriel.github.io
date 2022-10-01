@@ -1,8 +1,8 @@
 #  The contact options.
 
--
-  type: discord
-  icon: 'si social-discord_new'
+# -
+#   type: discord
+#   icon: 'si social-discord_new'
 -
   type: github
   icon: 'fab fa-github'
