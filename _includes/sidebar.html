@@ -21,7 +21,7 @@
         </a>
       </div>
   
-      <div class="site-title mt-3">
+      <div class="site-title">
         <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
       </div>
       <div class="site-subtitle font-italic">{{ site.tagline }}</div>
@@ -34,7 +34,7 @@
       <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
-          <span>{{ site.data.locales[lang].tabs.home | upcase }}</span>
+          <span>{{ site.data.locales[site.lang].tabs.home | upcase }}</span>
         </a>
       </li>
       <!-- the real tabs -->
@@ -44,7 +44,7 @@
           <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
           {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
   
-          <span>{{ site.data.locales[lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+          <span>{{ site.data.locales[site.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
         </a>
       </li> <!-- .nav-item -->
       {% endfor %}
@@ -71,10 +71,12 @@
             https://twitter.com/{{ site.twitter.username }}
           {%- elsif entry.type == 'discord' -%}
             https://discord.gg/{{ site.discord.invite }}
-            {%- elsif entry.type == 'steam' -%}
+          {%- elsif entry.type == 'steam' -%}
             https://steamcommunity.com/id/{{ site.steam.username }}
-            {%- elsif entry.type == 'youtube' -%}
-              {{ site.youtube.url }}
+          {%- elsif entry.type == 'youtube' -%}
+            {{ site.youtube.url }}
+          {%- elsif entry.type == 'guilded' -%}
+            https://guilded.gg/{{ site.guilded.username }}
           {%- elsif entry.type == 'email' -%}
             {% assign email = site.social.email | split: '@' %}
             javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')

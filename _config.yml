@@ -29,18 +29,21 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://a1asriel.github.io'
 
+guilded:
+  username: A1Asriel
+
 github:
   username: A1Asriel             # change to your github username
 
-discord:
-  invite: wVFPftk4vf
+# discord:
+#   invite: wVFPftk4vf
 
 # pleroma:
 #   domain:
 #   username:
 
 youtube:
-  url: https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
+  url: https://youtube.com/@A1Asriel
 
 steam:
   username: A1Asriel
@@ -55,10 +58,11 @@ social:
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://twitter.com/A1Asriel      # change to your twitter homepage
     - https://github.com/A1Asriel       # change to your github homepage
+    - https://guilded.gg/A1Asriel
     # - https://discord.gg/wVFPftk4vf
     - https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
-    - https://twitter.com/A1Asriel      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -96,7 +100,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.discordapp.com/attachments/713481949896900622/1011331529718370414/a1asriel_avatar.png
+avatar: https://cdn.discordapp.com/attachments/713481949896900622/1044990961756950559/omoriel.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true

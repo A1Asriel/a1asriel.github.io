@@ -184,16 +184,18 @@ Most of the peripherals were periodically replaced, as well as some internal mod
 
 <!-- - [**Personal Discord server**][discord-invite]  
   **Discord username:** A1Asriel#8203 -->
-- [**GitHub profile**][github-profile]
+- [**Twitter**][twitter-link]
+- [**Guilded**][guilded-link]
+- [**GitHub**][github-profile]
 - [**YouTube channel**][youtube-link]
-- [**Steam profile**][steam-link]
-- [**Twitter profile**][twitter-link]
+- [**Steam**][steam-link]
 
 <!-- [discord-invite]: https://discord.gg/{{ site.discord.invite }} -->
+[twitter-link]: https://twitter.com/{{ site.twitter.username }}
+[guilded-link]: https://guilded.gg/{{ site.guilded.username }}
 [github-profile]: https://github.com/{{ site.github.username }}
 [youtube-link]: {{ site.youtube.url }}
 [steam-link]: https://steamcommunity.com/id/{{ site.steam.username }}
-[twitter-link]: https://twitter.com/{{ site.twitter.username }}
 
 ## Footnotes
 

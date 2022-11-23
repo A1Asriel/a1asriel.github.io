@@ -4,6 +4,12 @@
 #   type: discord
 #   icon: 'si social-discord_new'
 -
+  type: twitter
+  icon: 'fab fa-twitter'
+-
+  type: guilded
+  icon: 'fab fa-guilded'
+-
   type: github
   icon: 'fab fa-github'
 -
@@ -12,9 +18,6 @@
 -
   type: steam
   icon: 'fab fa-steam'
--
-  type: twitter
-  icon: 'fab fa-twitter'
 -
   type: rss
   icon: 'fas fa-rss'
