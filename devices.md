@@ -1,6 +1,7 @@
 ---
 title: My devices
 layout: page
+permalink: /devices/
 ---
 
 ## Current devices specs

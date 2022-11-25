@@ -86,7 +86,7 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ## Devices
 
-> *Devices specs have been moved to a [separate page](../../devices)!*
+> *Devices specs have been moved to a [separate page](../devices)!*
 
 ## Links
 
