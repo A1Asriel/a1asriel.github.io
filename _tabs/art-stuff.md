@@ -35,16 +35,22 @@ order: 1
 ![](https://cdn.discordapp.com/attachments/803693424083206224/1018267533477953557/unknown.png)
 *Ka'Ifis WIP concept art | 11 September 2022*
 
-### Misc/joke drawings
+### Unpublished lower quality/misc/joke drawings
 
 ![](https://cdn.discordapp.com/attachments/803693424083206224/817397808318644265/sketch-1614952923440.png)
 *5 March 2021*
 
-![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1013586971249082418/asrielus.png)
+![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1053474865287528499/asrielus.png)
 *Susriel | 11 July 2021*
 
+![](https://cdn.discordapp.com/attachments/713481949896900622/1053474172807958578/asrielus_remastered_transparent.png)
+*Susriel remastered | 12 July 2021*
+
 ![](https://cdn.discordapp.com/attachments/803693424083206224/898256176528130098/unknown.png)
-*MS Paint Ralsei | 14 October 2021*
+*2-minute Ralsei | 14 October 2021*
+
+![](https://cdn.discordapp.com/attachments/713481949896900622/1053472939909054484/tim_hug.png)
+*Gift drawing for tpavlov (made for a Discord server X-mas challenge) | 16 December 2022*
 
 ## 3D renders
 
