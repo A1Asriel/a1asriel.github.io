@@ -24,7 +24,7 @@ My name is Alt, but I'm also known as Asriel or Azzy. I'm a second-year universi
 My hobbies are programming, text roleplaying, and a lil' bit of gaming. I used to play a lot, but now I can't say I'm a real gamer, rather just admiring video games as a culture.  
 I support free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, enjoy skeuomorphic design languages like Windows Aero (not extremely plain modern ones are also good, Fluent Design for instance) and love retrocomputing in general.  
 
-I can code in Python almost fluently, have a little experience with C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
+I can code in Python almost fluently, have a little experience with GDScript, C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
 Occasionally I draw things that pop up in my head, but this piece will tell you their average quality:  
 ![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1013586971249082418/asrielus.png){: .w-25 }
 *yes, this was drawn in MS Paint*
@@ -42,7 +42,7 @@ My favourite video games (or simply games I still play sometimes) are:
 ## Personal info
 
 - **Name:** Alt/Asriel/Azzy.
-- **Age:** 18 years old.
+- **Age:** 19 years old.
 - Gender:
 : 
 ```py
@@ -74,10 +74,10 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ### Other stuff
 
-| Name                                             | Status                          |
-|--------------------------------------------------|---------------------------------|
-| [**GTA-3000**][gta3k-source] | Discontinued (joke project) |
-| [**Personal website**]({{ site.url }}) | Active
+| Name                                   | Status                      |
+|----------------------------------------|-----------------------------|
+| [**GTA-3000**][gta3k-source]           | Discontinued (joke project) |
+| [**Personal website**]({{ site.url }}) | Active                      |
 
 [gta3k-source]: https://github.com/A1Asriel/GTA-3000
 [ow-source]: https://github.com/A1Asriel/OpenWorld

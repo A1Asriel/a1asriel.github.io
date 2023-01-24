@@ -35,6 +35,9 @@ order: 1
 ![](https://cdn.discordapp.com/attachments/803693424083206224/1018267533477953557/unknown.png)
 *Ka'Ifis WIP concept art | 11 September 2022*
 
+![](https://cdn.discordapp.com/attachments/704701934233190944/1067453073410248764/image-1.png)
+*Deltarune Chapter 3 Mike (phone head) concept art | 24 January 2023*
+
 ### Unpublished lower quality/misc/joke drawings
 
 ![](https://cdn.discordapp.com/attachments/803693424083206224/817397808318644265/sketch-1614952923440.png)
