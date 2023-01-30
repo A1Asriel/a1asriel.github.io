@@ -50,7 +50,7 @@ permalink: /devices/
 - **RAM:** 8 GB;
 - **Internal storage:** 256 GB;
 - **Display:** IPS, 6.67 inch, 1080x2400 (386 DPI), 120 Hz;
-- **Custom ROM:** crDroid 8 (Android 12) w/ NikGApps Core.
+- **Custom ROM:** Evolution X 7.5 (Android 13).
 
 ## Retired devices specs
 
