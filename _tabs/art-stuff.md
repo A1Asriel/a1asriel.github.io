@@ -55,6 +55,9 @@ order: 1
 ![](https://cdn.discordapp.com/attachments/713481949896900622/1053472939909054484/tim_hug.png)
 *Gift drawing for tpavlov (made for a Discord server X-mas challenge) | 16 December 2022*
 
+![](https://cdn.discordapp.com/attachments/713481949896900622/1083384988701044826/202302262142.png)
+*Leaked blueprints photo (2nd part of a micro-ARG | 25 February 2023*
+
 ## 3D renders
 
 ![](https://cdn.discordapp.com/attachments/906997388479176755/1042161259895853117/something2sqr.png)
@@ -68,6 +71,9 @@ order: 1
 
 ![](https://cdn.discordapp.com/attachments/906997388479176755/1042188066116358144/untitled2.png)
 *16 November 2022*
+
+![](https://cdn.discordapp.com/attachments/713481949896900622/1083384988889792552/202303021614.png)
+*Alternation Core (1st part of a micro-ARG) | 26 February 2023*
 
 ## License
 
