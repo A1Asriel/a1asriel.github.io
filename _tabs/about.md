@@ -11,18 +11,18 @@ Thanks for understanding.
 ## About the website
 
 *I'm not sure how did you find this place, but since you did, welcome!*  
-I've created this website to help you learn something interesting (or not) about me. You can get all essential information about me on this page, or check the [links at the bottom](#links) in case if you just want to contact me. While this page provides you some general facts from my life, the blog posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
+I've created this website to help you learn something interesting (or not) about me. You can get most of the essential information about me here, or check the [links at the bottom](#links) in case if you just want to contact me. While this page provides you some general facts from my life, the blog posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
 
-> To get basic information about me, check the [Personal info](#personal-info) section.
+> The basic information about me is specified in the [Personal info](#personal-info) section.
 {: .prompt-info}
 
 ---
 
-## Bio
+## About me
 
-My name is Alt, but I'm also known as Asriel or Azzy. I'm a second-year university student who is studying software engineering.  
+My name is Alt, I'm also known as Asriel or Azzy. I'm a second-year university student who is studying software engineering.  
 My hobbies are programming, text roleplaying, and a lil' bit of gaming. I used to play a lot, but now I can't say I'm a real gamer, rather just admiring video games as a culture.  
-I support free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, enjoy skeuomorphic design languages like Windows Aero (not extremely plain modern ones are also good, Fluent Design for instance) and love retrocomputing in general.  
+I support free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, like clean UI designs such as Frutiger Aero or Microsoft Fluent and love retrocomputing in general.
 
 I can code in Python almost fluently, have a little experience with GDScript, C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
 Occasionally I draw things that pop up in my head, but this piece will tell you their average quality:  
@@ -34,10 +34,10 @@ I wish I could draw better, but I'm too lazy to learn it. But either way, the cu
 My favourite video games (or simply games I still play sometimes) are:
 
 - Deltarune and Undertale,
-- Minecraft (best below 1.9, acceptable prior to 1.19.1),
+- Ultrakill,
 - C&C: Renegade,
-- Half-Life/Portal series,
-- World of Tanks.
+- Half-Life and Portal series,
+- Minecraft (best below 1.9, acceptable prior to 1.19.1).
 
 ## Personal info
 
@@ -51,6 +51,8 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 ```
 
 - **Pronouns:** any (excluding neopronouns).
+- **Languages:** Russian (native) and English (B2).
+- **Country of residence**: Russian Federation.
 - **Timezone:** UTC+3 (Europe/Moscow).  
   <span id="time-in-utc3"></span>
 
@@ -65,12 +67,12 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ### Discord bots
 
-| Name                                             | Status                          |
-|--------------------------------------------------|---------------------------------|
-| [**OpenWorld**][ow-source]                       | Discontinued[^rebrand-to-abl]   |
-| [**AsrielBot Legacy**][abl-site][^closed-source] | In active development (β-stage) |
-| [**Anastellos Engine**][ae-source]               | In active development           |
-| **AsrielBot**                                    | *Planned(?)*                    |
+| Name                                  | Status                        |
+|---------------------------------------|-------------------------------|
+| [**OpenWorld**][ow-source]            | Discontinued[^rebrand-to-abl] |
+| [**AsrielBot Legacy Beta**][abl-site] | In active development         |
+| [**Anastellos Engine**][ae-source]    | In active development         |
+| **AsrielBot**                         | *Planned*                     |
 
 ### Other stuff
 
@@ -86,7 +88,7 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ## Devices
 
-> *Devices specs have been moved to a [separate page](../devices)!*
+> *Devices specifications are located at a [separate page](../devices).*
 
 ## Links
 
@@ -107,5 +109,5 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ## Footnotes
 
-[^rebrand-to-abl]: AsrielBot Legacy is a successor to this bot.
-[^closed-source]: The source code is not yet opened.
+[^rebrand-to-abl]: AsrielBot Legacy is a successor of OpenWorld.
+[^closed-source]: The project uses closed source code.

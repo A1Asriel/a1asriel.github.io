@@ -1,7 +1,7 @@
 ---
 title: The future of AsrielBot, a new brand, and other changes
 date: 2023-03-09 18:35:00 +0300
-tags: [discord, internet, open-source]
+tags: [discord, internet, open-source, asrielbot]
 ---
 
 I'm aware this isn't exactly the post some of you have been waiting for, but it's not an easy task to write a huge wall of coherent text, at least for me. So I've decided to write about what's on my mind right now, before it's gone.  
