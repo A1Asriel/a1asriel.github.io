@@ -9,11 +9,11 @@ But either way, as the time passes - things change, and therefore some big chang
 
 ## The new management
 
-The most important upcoming change for all of my projects is the foundation of a new company. While it may not seem like a big thing, this change will allow me to gather more people to work, and the projects won't be associated solely with me anymore, therefore prolonging their life in case of if I stop working on them.
+The most important upcoming change for all of my projects is the foundation of a new company. While it may not seem like a big thing, this change will allow me to gather more people to work, and the projects won't be associated solely with me anymore, therefore prolonging their life in case if I stop working on them.
 
 ## AsrielBot or not?
 
-Since the very beginning of [AsrielBot](https://a1asriel.github.io/AsrielBot-site)'s development, it was renamed two times: from "OpenWorld" to "AsrielBot" and from "AsrielBot" to "AsrielBot Legacy". The first change was caused by the semi-forced decision of closing the source code (it's wasn't that "open" anymore), while the second one was made after setting a new milestone of remaking the bot from ground up on a new engine. The old engine was named "[Anastellos](https://github.com/A1Asriel/anastellos)", which stands for "stale" in Greek (at least that's what Google Translate said), except for the spelling is slightly screwed up.
+Since the very beginning of [AsrielBot](https://a1asriel.github.io/AsrielBot-site)'s development, it was renamed two times: from "OpenWorld" to "AsrielBot" and from "AsrielBot" to "AsrielBot Legacy". The first change was caused by the semi-forced decision of closing the source code (it wasn't that "open" anymore), while the second one was made after setting a new milestone of remaking the bot from ground up on a new engine. The old engine was named "[Anastellos](https://github.com/A1Asriel/anastellos)", which stands for "stale" in Greek (at least that's what Google Translate said), except for the spelling is slightly screwed up.
 
 A lot of time has passed, and literally 0 lines of code for the new engine was written. Yet the "stale" engine has been developing over time, turning into a pretty powerful tool for bootstrapping Discord bots of different kinds. It's not that robust or stable, but it does its job well, it's slowly transforming into what once was just an idea. It already has most of the features that were planned to be implemented in the new engine. Besides, there are a lot more new major milestones and goals to reach, for example, Guilded API support for making crossplatform bots easily. There's simply zero reason to spend time to recreate something that already exists when we can expand its features further instead. So maybe the "Stale Engine" isn't that stale after all.
 
@@ -27,7 +27,7 @@ And so I have decided to split this bot into two separate ones sometime during t
 ![](https://cdn.discordapp.com/attachments/713481949896900622/1083408191213289532/abl-conversion-light.png){: .light}
 ![](https://cdn.discordapp.com/attachments/713481949896900622/1083408191464943636/abl-conversion-dark.png){: .dark}
 
-The diagram above should explain you the basics of this conversion. Technically speaking, ABL will be renamed once again, and the rebooted AsrielBot will be hosted as a new instance.
+The diagram above should explain to you the basics of this conversion. Technically speaking, ABL will be renamed once again, and the rebooted AsrielBot will be hosted as a new instance.
 
 ## Change of plans
 
@@ -41,7 +41,7 @@ The third reason is the messages relaying system and a certain not yet announced
 
 ## Current state of AsrielBot
 
-Right now I'm working on the internal structure of Anastellos Engine, which will help me to concentrate more on the actual programming, rather than bothering with other minor things.[^anastellos-commits] Some of the userspace features are also being worked on, and the next update will probably be the most feature-rich one so far. Even simple bug fixes make the experince much more smooth, so the difference is quite big.
+Right now I'm working on the internal structure of Anastellos Engine, which will help me to concentrate more on the actual programming, rather than bothering with other minor things.[^anastellos-commits] Some of the userspace features are also being worked on, and the next update will probably be the most feature-rich one so far. Even simple bug fixes make the experience much more smooth, so the difference is quite big.
 
 I'd say the update is 70% (Anastellos part) / 25% (AsrielBot part) ready, but I can't give you the approximate date of it being 100% ready yet. The university life is too overwhelming by itself, so it's sometimes hard to find some time to work on the bot. But stay tuned, and I will let you know when the update is out!
 
