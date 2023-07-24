@@ -6,9 +6,9 @@
 -
   type: discord
   icon: 'fab fa-discord'
--
-  type: twitter
-  icon: 'fab fa-twitter'
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
 -
   type: rss
   icon: 'fas fa-rss'

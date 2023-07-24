@@ -29,27 +29,27 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://a1asriel.github.io'
 
-guilded:
-  username: A1Asriel
+# guilded:
+#   username: A1Asriel
 
 github:
   username: A1Asriel             # change to your github username
 
-# discord:
-#   invite: wVFPftk4vf
+discord:
+  invite: wVFPftk4vf
 
 # pleroma:
 #   domain:
 #   username:
 
 youtube:
-  url: https://youtube.com/@A1Asriel
+  url: https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
 
 steam:
   username: A1Asriel
 
-twitter:
-  username: A1Asriel            # change to your twitter username
+# twitter:
+#   username: A1Asriel            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -58,11 +58,11 @@ social:
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/A1Asriel      # change to your twitter homepage
+    # - https://twitter.com/A1Asriel      # change to your twitter homepage
     - https://github.com/A1Asriel       # change to your github homepage
-    - https://guilded.gg/A1Asriel
-    # - https://discord.gg/wVFPftk4vf
-    - https://youtube.com/@A1Asriel
+    # - https://guilded.gg/A1Asriel
+    - https://discord.gg/wVFPftk4vf
+    - https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

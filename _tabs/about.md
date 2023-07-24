@@ -11,27 +11,26 @@ Thanks for understanding.
 ## About the website
 
 *I'm not sure how did you find this place, but since you did, welcome!*  
-I've created this website to help you learn something interesting (or not) about me. You can get most of the essential information about me here, or check the [links at the bottom](#links) in case if you just want to contact me. While this page provides you some general facts from my life, the blog posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
+I've created this website to make it easier to learn something interesting about me. You can get most of the essential information here or jump straight to the [links at the bottom](#links) in case if you just want to contact me. While this page provides you some general facts from my life, the blog posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
 
-> The basic information about me is specified in the [Personal info](#personal-info) section.
+> The essential info is placed in the [Personal info](#personal-info) paragraph.
 {: .prompt-info}
 
 ---
 
 ## About me
 
-My name is Alt, I'm also known as Asriel or Azzy. I'm a second-year university student who is studying software engineering.  
-My hobbies are programming, text roleplaying, and a lil' bit of gaming. I used to play a lot, but now I can't say I'm a real gamer, rather just admiring video games as a culture.  
-I support free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, like clean UI designs such as Frutiger Aero or Microsoft Fluent and love retrocomputing in general.
+On the Internet I'm best known as Alt, Asriel or Azzy. I'm a third-year university software engineering student, my hobbies include programming, text roleplaying, and a bit of gaming. I used to play a lot before but now I can't say I'm a real gamer, I'm rather just admiring video games as the culture.  
+I prefer free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, clean and shiny UI design languages such as Frutiger Aero or Microsoft Fluent, and like retrocomputing in general.
 
-I can code in Python almost fluently, have a little experience with GDScript, C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
+My programming skills let me code in Python almost fluently, I have a little experience with GDScript, C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
 Occasionally I draw things that pop up in my head, but this piece will tell you their average quality:  
 ![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1013586971249082418/asrielus.png){: .w-25 }
 *yes, this was drawn in MS Paint*
 
-I wish I could draw better, but I'm too lazy to learn it. But either way, the current profile picture was drawn by me, and I'm a bit proud of it. If you're brave enough, you can check out [my other "artworks"](../art-stuff).
+I wish I could draw better but I'm too lazy to how to. Either way, the current profile picture you see on this website was drawn by me, and I'm sort of proud of it. If you're brave enough, you can check out [my other "artworks"](../art-stuff).
 
-My favourite video games (or simply games I still play sometimes) are:
+My favourite video games (and other games I still play to this day) are:
 
 - Deltarune and Undertale,
 - Ultrakill,
@@ -88,21 +87,21 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ## Devices
 
-> *Devices specifications are located at a [separate page](../devices).*
+> *Devices specifications are located at [separate page](../devices).*
 
 ## Links
 
-<!-- - [**Personal Discord server**][discord-invite]  
-  **Discord username:** A1Asriel#8203 -->
-- [**Twitter**][twitter-link]
-- [**Guilded**][guilded-link]
+- [**Personal Discord server**][discord-invite]  
+  **Discord username:** A1Asriel#8203
+<!-- - [**Twitter**][twitter-link] -->
+<!-- - [**Guilded**][guilded-link] -->
 - [**GitHub**][github-profile]
 - [**YouTube channel**][youtube-link]
 - [**Steam**][steam-link]
 
-<!-- [discord-invite]: https://discord.gg/{{ site.discord.invite }} -->
-[twitter-link]: https://twitter.com/{{ site.twitter.username }}
-[guilded-link]: https://guilded.gg/{{ site.guilded.username }}
+[discord-invite]: https://discord.gg/{{ site.discord.invite }}
+<!-- [twitter-link]: https://twitter.com/{{ site.twitter.username }} -->
+<!-- [guilded-link]: https://guilded.gg/{{ site.guilded.username }} -->
 [github-profile]: https://github.com/{{ site.github.username }}
 [youtube-link]: {{ site.youtube.url }}
 [steam-link]: https://steamcommunity.com/id/{{ site.steam.username }}

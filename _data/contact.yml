@@ -1,14 +1,14 @@
 #  The contact options.
 
+-
+  type: discord
+  icon: 'si social-discord_new'
 # -
-#   type: discord
-#   icon: 'si social-discord_new'
--
-  type: twitter
-  icon: 'fab fa-twitter'
--
-  type: guilded
-  icon: 'fab fa-guilded'
+#   type: twitter
+#   icon: 'fab fa-twitter'
+# -
+#   type: guilded
+#   icon: 'fab fa-guilded'
 -
   type: github
   icon: 'fab fa-github'
