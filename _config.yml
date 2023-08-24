@@ -208,6 +208,9 @@ exclude:
   - node_modules
   - package*.json
 
+include:
+  - '.well-known'
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
