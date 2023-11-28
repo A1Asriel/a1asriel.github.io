@@ -1,71 +1,45 @@
-# The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
-
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
 baseurl: ''
-
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
-
-
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Moscow
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: A1Asriel                          # the main title
-
-tagline: Just a fluffy amateur programmer   # it will display as the sub-title
-
-description: >-                        # used by seo meta and the atom feed
+title: A1Asriel
+tagline: Someone who likes coding and hates studying
+description: >-
   A1Asriel's personal blog
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://a1asriel.github.io'
 
 # guilded:
 #   username: A1Asriel
-
 github:
-  username: A1Asriel             # change to your github username
-
+  username: A1Asriel
 discord:
   invite: wVFPftk4vf
-
 # pleroma:
 #   domain:
 #   username:
-
 youtube:
   url: https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
-
 steam:
   username: A1Asriel
-
 # twitter:
-#   username: A1Asriel            # change to your twitter username
+#   username: A1Asriel
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: A1Asriel
-  # email: example@doamin.com             # change to your email address
+  # email: example@doamin.com
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/A1Asriel      # change to your twitter homepage
-    - https://github.com/A1Asriel       # change to your github homepage
+    # - https://twitter.com/A1Asriel
+    - https://github.com/A1Asriel
     # - https://guilded.gg/A1Asriel
     - https://discord.gg/wVFPftk4vf
     - https://youtube.com/channel/UCBFw53q9RjWDQUfIF6Wh6FA
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
@@ -100,7 +74,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.discordapp.com/attachments/713481949896900622/1045813197761941605/omoriel.gif
+avatar: /assets/img/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -157,11 +131,11 @@ collections:
 
 defaults:
   - scope:
-      path: ''          # An empty string here means all files in the project
+      path: ''
       type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
+      comments: true
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.

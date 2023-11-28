@@ -2,7 +2,7 @@
 title: Art stuff
 layout: page
 icon: fas fa-palette
-order: 1
+order: 4
 ---
 
 > Warning: cringy poor drawn "artworks" ahead, your eyes might get hurt!

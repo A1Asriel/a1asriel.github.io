@@ -2,7 +2,6 @@
 title: Hello World
 date: 2022-10-01 22:20:00 +0300
 tags: [telegram, github, open-source, privacy, internet]
-pin: true
 ---
 
 So, after more than a month after creating this website, I've finally decided to make an introductionary post. Therefore, I'll try to manifest the main purpose of the blog and maybe explain some interesting things to you.

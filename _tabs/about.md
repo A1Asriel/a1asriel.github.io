@@ -1,42 +1,37 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
-
-<!-- > This site is highly WIP and may contain partially improper information and inconsistent design.  
-Thanks for understanding.
-{: .prompt-warning } -->
 
 ## About the website
 
-*I'm not sure how did you find this place, but since you did, welcome!*  
-I've created this website to make it easier to learn something interesting about me. You can get most of the essential information here or jump straight to the [links at the bottom](#links) in case if you just want to contact me. While this page provides you some general facts from my life, the blog posts will be bringing my voice into the public with more limited scope, yet detailed thoughts.
+Welcome to my humble GitHub Pages-hosted personal website-slash-blog!  
+I've created this place to socialize a little and make it easier to learn something about me, in case you're interested for some reason. If you only need my contact information, you can just jump straight to the [links](#links) at the bottom of the page. While it already provides you with more than enough information, the blog posts will be bringing my voice into the public with a more limited scope, yet detailed thoughts, if I ever come out of my eternal hibernation and actually bring myself to writing some.
 
-> The essential info is placed in the [Personal info](#personal-info) paragraph.
+> The essential info is located in the [Personal info](#personal-info) section.
 {: .prompt-info}
 
 ---
 
 ## About me
 
-On the Internet I'm best known as Alt, Asriel or Azzy. I'm a third-year university software engineering student, my hobbies include programming, text roleplaying, and a bit of gaming. I used to play a lot before but now I can't say I'm a real gamer, I'm rather just admiring video games as the culture.  
-I prefer free and open-source software *(although still using that frickin' glassy piece of proprietary blob named Microsoft Шindoшs)*, clean and shiny UI design languages such as Frutiger Aero or Microsoft Fluent, and like retrocomputing in general.
+I'm a third-year university software engineering student, who is mostly known as Alt and A1Asriel on the Internet. My hobbies include programming, text roleplaying, and a bit of gaming. Even though I used to play video games much more, I still do it from time to time to this day.  
+I prefer free and open-source software (still using the "Windows" bloatware though), clean and modern UI design languages such as Frutiger Aero or Microsoft Fluent, but enjoy retro aesthetics as well.
 
-My programming skills let me code in Python almost fluently, I have a little experience with GDScript, C# and Lua, and currently trying to learn HTML/CSS/JS. Also considering learning either C or Rust.  
-Occasionally I draw things that pop up in my head, but this piece will tell you their average quality:  
+My programming skills: nearly fluent in Python, have got some experience with C, C#, HTML/CSS/JS, Lua, and GDScript.  
+I'm definitely not an artist, but occasionally I draw things that pop up in my head. Before you get too excited, I will show you this little piece which might tell you their average quality:  
 ![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1013586971249082418/asrielus.png){: .w-25 }
-*yes, this was drawn in MS Paint*
+*yes, this was made in MS Paint*
 
-I wish I could draw better but I'm too lazy to how to. Either way, the current profile picture you see on this website was drawn by me, and I'm sort of proud of it. If you're brave enough, you can check out [my other "artworks"](../art-stuff).
+I wish I could do better, but I'm too lazy to learn. If you're brave enough, you can check out [my other "art"-works](../art-stuff). The page also features some 3D-renders and edited photos.
 
 My favourite video games (and other games I still play to this day) are:
 
-- Deltarune and Undertale,
-- Ultrakill,
-- C&C: Renegade,
-- Half-Life and Portal series,
-- Minecraft (best below 1.9, acceptable prior to 1.19.1).
+- Deltarune and Undertale - these two obviously are my favourites of all time,
+- Ultrakill - got addicted to it pretty recently,
+- C&C: Renegade - the game of my childhood,
+- Half-Life and Portal series - love their linear yet exciting gameplay,
+- Minecraft - don't really play it anymore (since 1.9), but follow the updates.
 
 ## Personal info
 
@@ -49,7 +44,7 @@ My favourite video games (and other games I still play to this day) are:
 AttributeError: 'A1Asriel' object has no attribute 'gender'
 ```
 
-- **Pronouns:** any (excluding neopronouns).
+- **Pronouns:** any (no neos).
 - **Languages:** Russian (native) and English (B2).
 - **Country of residence**: Russian Federation.
 - **Timezone:** UTC+3 (Europe/Moscow).  
@@ -66,28 +61,29 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 
 ### Discord bots
 
-| Name                                  | Status                        |
-|---------------------------------------|-------------------------------|
-| [**OpenWorld**][ow-source]            | Discontinued[^rebrand-to-abl] |
-| [**AsrielBot Legacy Beta**][abl-site] | In active development         |
-| [**Anastellos Engine**][ae-source]    | In active development         |
-| **AsrielBot**                         | *Planned*                     |
+| Name                                   | Status                        |
+|----------------------------------------|-------------------------------|
+| [**OpenWorld**][ow-source]             | Discontinued[^rebrand-to-abl] |
+| [**AsrielBot Legacy Beta**][abl-site]  | Active/In development         |
+| **Proelefsi Project Alpha**[^proelefsi]| Active/In development         |
+
+### Websites
+
+| Name                                   | Status                    |
+|----------------------------------------|---------------------------|
+| [**Personal website**]({{ site.url }}) | Active                    |
+| [**«WэК!» (nostalgic WoT mod series) website**][wek-site] | Active |
 
 ### Other stuff
 
-| Name                                   | Status                      |
-|----------------------------------------|-----------------------------|
-| [**GTA-3000**][gta3k-source]           | Discontinued (joke project) |
-| [**Personal website**]({{ site.url }}) | Active                      |
+| Name                               | Status                     |
+| [**Anastellos Engine**][ae-source] | In semi-active development |
+| **Epamenos Project**[^epamenos]    | Planned/Early development  |
 
-[gta3k-source]: https://github.com/A1Asriel/GTA-3000
 [ow-source]: https://github.com/A1Asriel/OpenWorld
 [abl-site]: https://a1asriel.github.io/AsrielBot-site
 [ae-source]: https://github.com/A1Asriel/anastellos
-
-## Devices
-
-> *Devices specifications are located at [separate page](../devices).*
+[wek-site]: https://wotclassic.github.io
 
 ## Links
 
@@ -99,14 +95,16 @@ AttributeError: 'A1Asriel' object has no attribute 'gender'
 - [**YouTube channel**][youtube-link]
 - [**Steam**][steam-link]
 
-[discord-invite]: https://discord.gg/{{ site.discord.invite }}
+[discord-invite]: <https://discord.gg/{{ site.discord.invite }}>
 <!-- [twitter-link]: https://twitter.com/{{ site.twitter.username }} -->
 <!-- [guilded-link]: https://guilded.gg/{{ site.guilded.username }} -->
-[github-profile]: https://github.com/{{ site.github.username }}
-[youtube-link]: {{ site.youtube.url }}
-[steam-link]: https://steamcommunity.com/id/{{ site.steam.username }}
+[github-profile]: <https://github.com/{{ site.github.username }}>
+[youtube-link]: <{{ site.youtube.url }}>
+[steam-link]: <https://steamcommunity.com/id/{{ site.steam.username }}>
 
 ## Footnotes
 
-[^rebrand-to-abl]: AsrielBot Legacy is a successor of OpenWorld.
-[^closed-source]: The project uses closed source code.
+[^rebrand-to-abl]: AsrielBot Legacy is the direct successor of OpenWorld.
+<!-- [^closed-source]: The project is using proprietary closed-source code. -->
+[^proelefsi]: Proelefsi Project (aka BendyBot) is a knowledge base bot for the «WэК!» Discord server.
+[^epamenos]: Epamenos Project is an upcoming successor of Anastellos Engine.
