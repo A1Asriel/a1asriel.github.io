@@ -20,7 +20,7 @@ I prefer free and open-source software (still using the "Windows" bloatware thou
 
 My programming skills: nearly fluent in Python, have got some experience with C, C#, HTML/CSS/JS, Lua, and GDScript.  
 I'm definitely not an artist, but occasionally I draw things that pop up in my head. Before you get too excited, I will show you this little piece which might tell you their average quality:  
-![Poorly drawn Asriel in Among Us style with a white soul](https://cdn.discordapp.com/attachments/713481949896900622/1013586971249082418/asrielus.png){: .w-25 }
+![Poorly drawn Asriel in Among Us style with a white soul](/assets/img/art/asrielus.png){: .w-25 }
 *yes, this was made in MS Paint*
 
 I wish I could do better, but I'm too lazy to learn. If you're brave enough, you can check out [my other "art"-works](../art-stuff). The page also features some 3D-renders and edited photos.
